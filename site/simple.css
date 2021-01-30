@@ -1,0 +1,50 @@
+/* New file simple.css */
+
+.container {
+    width: 100%;
+}
+
+.navbar .navbar-inverse .navbar-form {
+  border-radius: 0px;
+  margin-bottom: 10px;
+  background-color: #383838;
+  border-color: #383838;
+}
+
+.navbar-brand {
+  padding: 10px;
+}
+
+
+.navbar-brand > img {
+  max-height: 120%;
+  padding: 0px;
+  width: auto;
+}
+
+.navbar .navbar-inverse .navbar-collapse .navbar-text {
+  color: white;
+}
+
+h2 {
+   font-size: 20px;
+   font-weight: bold;
+   color: #5C5C5C;
+}
+
+h1 {
+   font-size: 16px;
+   font-weight: bold;
+   color: #5C5C5C;
+}
+
+.center {
+   text-align: center;
+}
+
+
+#test {
+    height: 200px;
+}
+
+
